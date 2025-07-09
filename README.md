@@ -75,18 +75,13 @@ This study applies various clustering techniques to breast cancer gene expressio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/rupesh-mr/breast_cancer_gene_expression_analysis
+   cd breast_cancer_gene_expression_analysis
    ```
 
-2. Install dependencies (suggested environment: Python 3.9+):
+2. Open and run the notebook:
    ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open and run the notebook:
-   ```bash
-   jupyter notebook Team10_Clustering_GeneExpression.ipynb
+   jupyter notebook Code.ipynb
    ```
 
 ---
